@@ -1,40 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:081F36,50:0D2B45,100:21D9E8&height=220&section=header&text=Idevion&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Guided%20Growth%20for%20Students%20and%20Developers&descAlignY=62&descSize=20" />
 
-<br/>
-
-<img src="./assets/idevion-logo.png" alt="Idevion Logo" width="230" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=We+filter+the+noise+from+the+tech+ecosystem.;We+verify,+guide,+mentor,+and+support+student+growth.;Trusted+opportunities.+Guided+learning.+Meaningful+networking.;Helping+students+focus+on+what+actually+matters." alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=081F36&center=true&vCenter=true&width=950&lines=Developer-first+community+for+students+and+builders.;Guided+learning.+Verified+opportunities.+Open-source+growth.;Learn+with+clarity.+Build+with+purpose.+Grow+with+community.;Turning+students+into+builders,+contributors,+and+leaders." alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Community-5K%2B%20Members-21D9E8?style=for-the-badge&labelColor=081F36" />
-<img src="https://img.shields.io/badge/Network%20Reach-25K%2B-21D9E8?style=for-the-badge&labelColor=081F36" />
-<img src="https://img.shields.io/badge/Mission-Guided%20Growth-21D9E8?style=for-the-badge&labelColor=081F36" />
-<img src="https://img.shields.io/badge/Open%20Source-Learning%20Driven-21D9E8?style=for-the-badge&labelColor=081F36" />
+<img src="https://img.shields.io/badge/Community-5K%2B%20Members-21D9E8?style=for-the-badge&labelColor=081F36" alt="Community Badge" />
+<img src="https://img.shields.io/badge/Internship%20Channel-2K%2B%20Followers-21D9E8?style=for-the-badge&labelColor=081F36" alt="Internship Channel Badge" />
+<img src="https://img.shields.io/badge/Core-Signal%20Over%20Noise-21D9E8?style=for-the-badge&labelColor=081F36" alt="Signal Over Noise Badge" />
+<img src="https://img.shields.io/badge/Direction-Guided%20Growth-21D9E8?style=for-the-badge&labelColor=081F36" alt="Guided Growth Badge" />
 
 <br/><br/>
 
 <a href="https://github.com/idevion-organisation">
-  <img src="https://img.shields.io/badge/GitHub-Idevion-081F36?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-idevion--organisation-081F36?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/company/idevion/">
-  <img src="https://img.shields.io/badge/LinkedIn-Idevion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Idevion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/idevion_network">
-  <img src="https://img.shields.io/badge/Instagram-idevion__network-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-idevion__network-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="mailto:YOUR_GMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Idevion-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:idevion.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Idevion-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=idevion-organisation.profile&left_color=081F36&right_color=21D9E8" />
+<a href="MAIN_WHATSAPP_CHANNEL_LINK">
+  <img src="https://img.shields.io/badge/WhatsApp-Main%20Idevion%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Main Idevion WhatsApp Channel" />
+</a>
+<a href="INTERNSHIP_WHATSAPP_CHANNEL_LINK">
+  <img src="https://img.shields.io/badge/WhatsApp-Internship%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Idevion Internship WhatsApp Channel" />
+</a>
+
+<br/><br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=idevion-organisation.profile&left_color=081F36&right_color=21D9E8" alt="Visitor Badge" />
 
 </div>
 
@@ -42,25 +44,27 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%" valign="middle">
 
-# Welcome to Idevion
+<h2>The Filter & Growth Layer for Students</h2>
 
-**Idevion** is a developer-first community helping students **learn, build, contribute, and grow** through structured learning, verified opportunities, practical projects, technical events, and open-source collaboration.
+<p>
+<strong>Idevion</strong> is a developer-first, opportunity-focused community helping students, developers, and creators navigate the tech ecosystem with <strong>clarity, trust, and direction</strong>.
+</p>
 
-We are building a practical student-tech ecosystem where learners move from confusion to clarity and from learning to real-world contribution.
+<p>
+We do not only filter noisy or low-value information. We also provide <strong>guided growth</strong> by helping learners understand what matters, what to avoid, what to pursue, and how to move forward through trusted opportunities, mentor-backed direction, workshops, events, hackathons, and community support.
+</p>
 
-```txt
-Learn with clarity.
-Build with purpose.
-Contribute with confidence.
-Grow with community.
-```
+<pre>
+Too much data creates confusion.
+Idevion turns noise into direction.
+</pre>
 
 </td>
-<td width="40%" align="center">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Developer Animation" />
 
 </td>
 </tr>
@@ -70,106 +74,57 @@ Grow with community.
 
 <div align="center">
 
-## The Idevion Growth System
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:081F36,100:21D9E8&height=3&section=header" alt="Divider" />
+
+<h2>What Idevion Actually Does</h2>
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/01-Learn-21D9E8?style=for-the-badge&labelColor=081F36" />
-<br/><br/>
-Roadmaps, notes, resources, DSA, Java, web, AI, and guided learning tracks.
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/02-Build-21D9E8?style=for-the-badge&labelColor=081F36" />
-<br/><br/>
-Projects, templates, practical implementation, and real portfolio growth.
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/03-Contribute-21D9E8?style=for-the-badge&labelColor=081F36" />
-<br/><br/>
-GitHub repositories, first PRs, documentation, and open-source culture.
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/04-Grow-21D9E8?style=for-the-badge&labelColor=081F36" />
-<br/><br/>
-Verified opportunities, hackathons, internships, visibility, and community support.
-</td>
-</tr>
-</table>
+<td width="20%" align="center" valign="top">
 
----
-
-## What We Do
-
-<table>
-<tr>
-<td width="50%">
-
-### Learning & Resources
-
-- Beginner-friendly notes  
-- DSA and Java guidance  
-- Domain-based learning tracks  
-- Roadmaps and curated resources  
-- Practical project learning  
-
-</td>
-<td width="50%">
-
-### Opportunities & Growth
-
-- Verified internships and jobs  
-- Hackathons and competitions  
-- GitHub and open-source exposure  
-- Workshops, meetups, and events  
-- Community partnerships  
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Open-Source Initiative
-
-<div align="center">
-
-<a href="https://github.com/idevion-organisation/dsa-patterns-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=idevion-organisation&repo=dsa-patterns-java&theme=transparent&hide_border=false&border_color=21D9E8&title_color=081F36&text_color=081F36&icon_color=21D9E8" />
-</a>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="55%">
-
-### DSA Patterns Java
-
-Our first public open-source learning initiative focuses on **pattern-based DSA learning in Java for beginners**.
-
-Instead of memorizing random solutions, learners understand:
-
-```txt
-Concept → Pattern → Example → Dry Run → Complexity → Mistakes → Practice
-```
-
-This helps beginners learn **how to think**, not just how to copy code.
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+<img src="https://img.shields.io/badge/01-Filter-21D9E8?style=for-the-badge&labelColor=081F36" alt="Filter" />
 
 <br/><br/>
 
-<a href="https://github.com/idevion-organisation/dsa-patterns-java">
-  <img src="https://img.shields.io/badge/Explore%20Repository-DSA%20Patterns%20Java-21D9E8?style=for-the-badge&labelColor=081F36&logo=github&logoColor=white" />
-</a>
+We reduce crowded tech information into useful, relevant, and high-signal updates.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-Verify-21D9E8?style=for-the-badge&labelColor=081F36" alt="Verify" />
+
+<br/><br/>
+
+We focus on genuine internships, jobs, events, hackathons, resources, and programs.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-Guide-21D9E8?style=for-the-badge&labelColor=081F36" alt="Guide" />
+
+<br/><br/>
+
+We add context and direction instead of simply dumping links.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/04-Mentor-21D9E8?style=for-the-badge&labelColor=081F36" alt="Mentor" />
+
+<br/><br/>
+
+We support growth through mentor sessions, workshops, collaborations, and expert guidance.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/05-Grow-21D9E8?style=for-the-badge&labelColor=081F36" alt="Grow" />
+
+<br/><br/>
+
+We help students learn, build, network, contribute, and access better opportunities.
 
 </td>
 </tr>
@@ -179,52 +134,172 @@ This helps beginners learn **how to think**, not just how to copy code.
 
 ## Why Idevion Exists
 
-Most students do not fail because they lack resources.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-They struggle because they have:
+<h3>The Problem</h3>
 
-```txt
-Resources without roadmap.
-Opportunities without verification.
-Tutorials without execution.
-Motivation without structure.
-Learning without public proof.
-```
+<pre>
+Information overload
+Unverified internships
+Misleading job posts
+Scattered learning resources
+Low-quality networking
+Too many links, too little clarity
+No clear direction after learning
+</pre>
 
-Idevion focuses on solving this through **guided growth**.
+</td>
+<td width="50%" valign="top">
+
+<h3>Our Approach</h3>
+
+<pre>
+Verified opportunities
+Curated learning resources
+Context-driven guidance
+Mentor-backed direction
+Meaningful networking
+Workshops and events
+Signal over noise
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Idevion Ecosystem
 
 <div align="center">
 
-| Problem | Idevion Approach |
+| Channel / Activity | Purpose |
 |---|---|
-| Too many random resources | Curated and structured learning |
-| Confusion in DSA/projects | Pattern-based and project-first guidance |
-| Unverified opportunities | Filtered and useful opportunity sharing |
-| Weak GitHub presence | Open-source contribution culture |
-| Learning alone | Community-driven growth |
+| **Main Idevion Community** | Student and developer growth ecosystem |
+| **Internship Channel** | Curated internships, jobs, JDs, referrals, and openings |
+| **Guided Learning** | Roadmaps, notes, certifications, technical sessions, and workshops |
+| **Mentor Direction** | Industry mentor sessions, expert guidance, and career-focused support |
+| **Events & Hackathons** | Online workshops, offline events, collaborations, and hackathon support |
+| **Open Source** | GitHub projects, contribution culture, and beginner-friendly repositories |
+| **Networking** | Meaningful connections across students, developers, creators, and communities |
 
 </div>
 
 ---
 
-## Our Core Principles
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21D9E8,100:081F36&height=3&section=header" alt="Divider" />
+
+<h2>Featured Open-Source Initiative</h2>
+
+<a href="https://github.com/idevion-organisation/dsa-patterns-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=idevion-organisation&repo=dsa-patterns-java&theme=transparent&hide_border=false&border_color=21D9E8&title_color=081F36&text_color=081F36&icon_color=21D9E8" alt="DSA Patterns Java Repository" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/idevion-organisation/dsa-patterns-java">
+  <img src="https://img.shields.io/badge/Explore-DSA%20Patterns%20Java-21D9E8?style=for-the-badge&labelColor=081F36&logo=github&logoColor=white" alt="Explore DSA Patterns Java" />
+</a>
+
+</div>
+
+### DSA Patterns Java
+
+Our first public open-source initiative helps beginners learn **DSA in Java through patterns**.
+
+```txt
+Concept → Pattern → Example → Dry Run → Complexity → Mistakes → Practice
+```
+
+It helps students understand **how to think**, not just how to copy code.
+
+---
+
+## What We Provide
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<h3>Opportunities</h3>
+
+Internships  
+Jobs  
+Referrals  
+Hackathons  
+Competitions  
+Fellowships  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Guided Growth</h3>
+
+Roadmaps  
+Workshops  
+Mentor sessions  
+Tech sessions  
+Certifications  
+Project guidance  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Community</h3>
+
+Networking  
+Collaborations  
+Events  
+Open source  
+Offline meetups  
+Partner programs  
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-| Principle | What It Means |
+## Focus Areas
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,python,html,css,git,github,vscode" alt="Tech Stack Icons" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java%20%26%20DSA-Problem%20Solving-21D9E8?style=for-the-badge&labelColor=081F36" alt="Java DSA" />
+<img src="https://img.shields.io/badge/Open%20Source-Contribution%20Culture-21D9E8?style=for-the-badge&labelColor=081F36" alt="Open Source" />
+<img src="https://img.shields.io/badge/Events-Workshops%20%26%20Hackathons-21D9E8?style=for-the-badge&labelColor=081F36" alt="Events" />
+<img src="https://img.shields.io/badge/Mentorship-Guided%20Direction-21D9E8?style=for-the-badge&labelColor=081F36" alt="Mentorship" />
+
+</div>
+
+---
+
+## Principles We Follow
+
+<div align="center">
+
+| Principle | Meaning |
 |---|---|
-| Beginner-first | Simple explanations without reducing quality |
-| Practical over passive | Build, contribute, and apply learning |
-| Verified over random | Share resources and opportunities with care |
-| Open-source mindset | Learn publicly and contribute consistently |
-| Guided growth | Direction matters more than noise |
+| **Signal over noise** | Share what is actually useful |
+| **Verification before distribution** | Trust matters more than speed |
+| **Direction over dumping links** | Context makes opportunities valuable |
+| **Guidance beyond filtering** | We help students understand the right next step |
+| **Quality over quantity** | Fewer valuable things are better than many random things |
+| **Community-led growth** | Students grow better with support, mentors, and structure |
 
 </div>
 
 ---
 
 <details>
-<summary><b>Explore Idevion Learning Domains</b></summary>
+<summary><b>Explore Learning Domains</b></summary>
 
 <br/>
 
@@ -234,9 +309,33 @@ Idevion focuses on solving this through **guided growth**.
 | Web Development | Frontend, backend, full-stack projects |
 | AI / ML | Beginner AI/ML learning and projects |
 | Data Science | Python, analytics, visualization, projects |
-| Cybersecurity | Basics, awareness, safe beginner paths |
+| Cybersecurity | Basics and safe beginner paths |
 | Open Source | Git, GitHub, first PRs, contribution culture |
 | Career Growth | Resume, LinkedIn, GitHub, internships, opportunities |
+
+</details>
+
+---
+
+<details>
+<summary><b>For Collaborations & Partners</b></summary>
+
+<br/>
+
+Idevion collaborates with communities, startups, event teams, hackathon organizers, EdTech platforms, opportunity platforms, mentors, and learning initiatives.
+
+We are open to collaborations around:
+
+- workshops
+- hackathons
+- technical sessions
+- mentor sessions
+- fellowships
+- community partnerships
+- co-branded learning initiatives
+- verified opportunity distribution
+
+We prefer partnerships that create real value, direction, and outcomes for students and developers.
 
 </details>
 
@@ -247,16 +346,16 @@ Idevion focuses on solving this through **guided growth**.
 
 <br/>
 
-You can contribute to Idevion by helping with:
+You can contribute by helping with:
 
-- beginner-friendly notes  
-- Java and DSA resources  
-- roadmaps  
-- project ideas  
-- documentation improvements  
-- issue fixes  
-- practice questions  
-- open-source learning resources  
+- beginner-friendly notes
+- Java and DSA resources
+- roadmaps
+- project ideas
+- documentation improvements
+- issue fixes
+- practice questions
+- open-source learning resources
 
 Best contribution style:
 
@@ -264,82 +363,46 @@ Best contribution style:
 Simple explanation + clean structure + practical value
 ```
 
-Beginners are welcome.
-
 </details>
 
 ---
-
-<details>
-<summary><b>Who Is Idevion For?</b></summary>
-
-<br/>
-
-Idevion is for students and developers who are:
-
-- starting their coding journey  
-- learning Java, DSA, web, AI, or open source  
-- preparing for internships or placements  
-- building their GitHub presence  
-- looking for verified opportunities  
-- interested in hackathons and projects  
-- confused by too many resources and need structure  
-
-</details>
-
----
-
-## Tech & Community Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,python,html,css,git,github,vscode" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-21D9E8?style=for-the-badge&labelColor=081F36" />
-<img src="https://img.shields.io/badge/Open%20Source-Contribution%20Culture-21D9E8?style=for-the-badge&labelColor=081F36" />
-<img src="https://img.shields.io/badge/Community-Guided%20Growth-21D9E8?style=for-the-badge&labelColor=081F36" />
-
-</div>
-
----
 
 ## Connect With Idevion
 
-<div align="center">
-
 <a href="https://github.com/idevion-organisation">
-  <img src="https://img.shields.io/badge/GitHub-idevion--organisation-081F36?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-idevion--organisation-081F36?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/company/idevion/">
-  <img src="https://img.shields.io/badge/LinkedIn-Idevion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Idevion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/idevion_network">
-  <img src="https://img.shields.io/badge/Instagram-idevion__network-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-idevion__network-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="mailto:YOUR_GMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Idevion-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:idevion.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Idevion-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## Built Under Idevion
-
-Built and maintained by **Saurya Kapoor** under **Idevion**.
-
-Idevion is a beginner-focused developer community helping students grow through learning resources, roadmaps, projects, opportunities, events, and open-source collaboration.
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&center=true&vCenter=true&width=700&color=081F36&lines=Learn.+Build.+Contribute.+Grow.;Guided+Growth+for+the+next+generation+of+developers." alt="Footer Typing SVG" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D9E8,50:0D2B45,100:081F36&height=120&section=footer" />
+<a href="MAIN_WHATSAPP_CHANNEL_LINK">
+  <img src="https://img.shields.io/badge/WhatsApp-Main%20Idevion%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Main Idevion WhatsApp Channel" />
+</a>
+<a href="INTERNSHIP_WHATSAPP_CHANNEL_LINK">
+  <img src="https://img.shields.io/badge/WhatsApp-Internship%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Idevion Internship WhatsApp Channel" />
+</a>
+
+<br/><br/>
+
+Built and maintained by <b>Saurya Kapoor</b> under <b>Idevion</b>.
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&center=true&vCenter=true&width=820&color=081F36&lines=Signal+over+noise.;Guided+growth+with+direction.;Trusted+opportunities.+Mentor-backed+learning.;Learn.+Build.+Contribute.+Grow." alt="Footer Typing SVG" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D9E8,50:0D2B45,100:081F36&height=120&section=footer" alt="Footer" />
 
 </div>
