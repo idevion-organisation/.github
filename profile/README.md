@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:081F36,50:0D2B45,100:21D9E8&height=220&section=header&text=Idevion&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Guided%20Growth%20for%20Students%20and%20Developers&descAlignY=62&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=We+filter+the+noise+from+the+tech+ecosystem.;We+verify,+guide,+mentor,+and+support+student+growth.;Trusted+opportunities.+Guided+learning.+Meaningful+networking.;Helping+students+focus+on+what+actually+matters." alt="Typing SVG" />
 
@@ -10,7 +11,7 @@
 <img src="https://img.shields.io/badge/Core-Signal%20Over%20Noise-21D9E8?style=for-the-badge&labelColor=081F36" alt="Signal Over Noise Badge" />
 <img src="https://img.shields.io/badge/Direction-Guided%20Growth-21D9E8?style=for-the-badge&labelColor=081F36" alt="Guided Growth Badge" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/idevion-organisation">
   <img src="https://img.shields.io/badge/GitHub-idevion--organisation-081F36?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/Gmail-Contact%20Idevion-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="MAIN_WHATSAPP_CHANNEL_LINK">
   <img src="https://img.shields.io/badge/WhatsApp-Main%20Idevion%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Main Idevion WhatsApp Channel" />
@@ -33,9 +34,6 @@
 <a href="INTERNSHIP_WHATSAPP_CHANNEL_LINK">
   <img src="https://img.shields.io/badge/WhatsApp-Internship%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Idevion Internship WhatsApp Channel" />
 </a>
-
-<br/><br/>
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=idevion-organisation.profile&left_color=081F36&right_color=21D9E8" alt="Visitor Badge" />
 
 </div>
@@ -86,7 +84,7 @@ Idevion turns noise into direction.
 
 <img src="https://img.shields.io/badge/01-Filter-21D9E8?style=for-the-badge&labelColor=081F36" alt="Filter" />
 
-<br/><br/>
+<br/>
 
 We reduce crowded tech information into useful, relevant, and high-signal updates.
 
@@ -95,7 +93,7 @@ We reduce crowded tech information into useful, relevant, and high-signal update
 
 <img src="https://img.shields.io/badge/02-Verify-21D9E8?style=for-the-badge&labelColor=081F36" alt="Verify" />
 
-<br/><br/>
+<br/>
 
 We focus on genuine internships, jobs, events, hackathons, resources, and programs.
 
@@ -104,7 +102,7 @@ We focus on genuine internships, jobs, events, hackathons, resources, and progra
 
 <img src="https://img.shields.io/badge/03-Guide-21D9E8?style=for-the-badge&labelColor=081F36" alt="Guide" />
 
-<br/><br/>
+<br/>
 
 We add context and direction instead of simply dumping links.
 
@@ -113,7 +111,7 @@ We add context and direction instead of simply dumping links.
 
 <img src="https://img.shields.io/badge/04-Mentor-21D9E8?style=for-the-badge&labelColor=081F36" alt="Mentor" />
 
-<br/><br/>
+<br/>
 
 We support growth through mentor sessions, workshops, collaborations, and expert guidance.
 
@@ -122,7 +120,7 @@ We support growth through mentor sessions, workshops, collaborations, and expert
 
 <img src="https://img.shields.io/badge/05-Grow-21D9E8?style=for-the-badge&labelColor=081F36" alt="Grow" />
 
-<br/><br/>
+<br/>
 
 We help students learn, build, network, contribute, and access better opportunities.
 
@@ -194,12 +192,6 @@ Signal over noise
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21D9E8,100:081F36&height=3&section=header" alt="Divider" />
 
 <h2>Featured Open-Source Initiative</h2>
-
-<a href="https://github.com/idevion-organisation/dsa-patterns-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=idevion-organisation&repo=dsa-patterns-java&theme=transparent&hide_border=false&border_color=21D9E8&title_color=081F36&text_color=081F36&icon_color=21D9E8" alt="DSA Patterns Java Repository" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/idevion-organisation/dsa-patterns-java">
   <img src="https://img.shields.io/badge/Explore-DSA%20Patterns%20Java-21D9E8?style=for-the-badge&labelColor=081F36&logo=github&logoColor=white" alt="Explore DSA Patterns Java" />
